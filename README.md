@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rana</h1>
 <h3 align="center">A backend engineer based in the UK</h3>
 
-- 🎓 Alumni : **University of Essex**
+🎓 Alumni : **University of Essex**
 
-- 📜 Major : **Computer Science Bsc.**
+📜 Major : **Computer Science Bsc.**
 
-- ⚙️ Currently working on : **Recommendation System**
+⚙️ Currently working on : **Recommendation System**
 
-- 🌱 Currently Learning : **Django, Flutter and ML**
+🌱 Currently Learning : **Django, Flutter and ML**
 
-- 📫 Contact : **sq18335@essex.ac.uk**
+📫 Contact : **sq18335@essex.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
