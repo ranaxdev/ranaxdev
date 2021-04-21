@@ -3,15 +3,15 @@
 <h4 align="left">About me:</h4>
 
 <pre>
-🎓  Alumni     :   University of Essex
+🎓  Alumni       //   University of Essex
 
-📜  Major      :   Computer Science Bsc.
+📜  Major        //   Computer Science Bsc.
 
-⚙️  Working on :   Recommendation Systems
+⚙️  Working on   //   Recommendation Systems
 
-🌱  Learning   :   Django and ML
+💡  Learning     //   Django and ML
 
-📫  Contact    :   sq18335@essex.ac.uk
+✉️  Contact      //   sq18335@essex.ac.uk
 </pre>
 
 <h4 align="left">Connect with me:</h4>
