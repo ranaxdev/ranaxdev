@@ -1,5 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rana</h2>
 <h4 align="center">:cherry_blossom: A backend engineer based in the UK :cherry_blossom:</h4>
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Franaxdev&count_bg=%23FFD4FC&title_bg=%233E3B3D&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a></p>
+
 <h4 align="left">About me:</h4>
 
 <pre>
