@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rana</h2>
-<h4 align="center">A backend engineer based in the UK</h4>
+<h4 align="center">:cherry_blossom: A backend engineer based in the UK :cherry_blossom:</h4>
 <h4 align="left">About me:</h4>
 
 
