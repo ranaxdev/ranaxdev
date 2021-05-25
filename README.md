@@ -5,15 +5,15 @@
 <h4 align="left">About Me</h4>
 
 <pre>
-🎓  Alumni       //   University of Essex
+🎓  Alumni        //   University of Essex
 
-📜  Major        //   Computer Science Bsc.
+📜  Major         //   Computer Science Bsc.
 
-⚙️  Working on   //   Generative Art WebApp
+⚙️  Working on    //   Generative Art WebApp
 
-💡  Learning     //   Django
+💡  Learning      //   Django
 
-✉️  Contact      //   sq18335@essex.ac.uk
+✉️  Contact       //   sq18335@essex.ac.uk
 </pre>
 
 <h4 align="left">Connect With Me</h4>
