@@ -11,7 +11,7 @@
 
 💼  Working on    //   Generative Art WebApp
 
-💡  Learning      //   Django
+📰  Learning      //   Django
 
 📮  Contact       //   sq18335@essex.ac.uk
 </pre>
