@@ -9,9 +9,9 @@
 
 📜  Major         //   Computer Science Bsc.
 
-💼  Working on    //   Generative Art WebApp
+💼  Working on    //   Generative Art App
 
-📰  Learning      //   Django
+📰  Learning      //   High-Performance Graphics
 
 📮  Contact       //   sq18335@essex.ac.uk
 </pre>
