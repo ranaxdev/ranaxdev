@@ -1,17 +1,17 @@
 <h2 align="center">Hi 👋, I'm Rana</h2>
-<h4 align="center">🏮 A backend engineer based in the UK 🏮</h4>
+<h4 align="center">🏮 An advanced CS postgraduate based in the UK 🏮</h4>
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Franaxdev&count_bg=%23B03C2F&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a></p>
 
 <h4 align="left">About Me</h4>
 
 <pre>
-🎓  Alumni        //   University of Essex
+🎓  Alumni        //   University of Leeds  •  University of Essex
 
-📜  Major         //   Computer Science Bsc.
+📜  Majors        //   High-Performance Graphics and Games Engineering MSc.  •  Computer Science BSc. (Hons)
 
-💼  Working on    //   Generative Art App
+💼  Working on    //   3D Conics & Surfaces Renderer
 
-📰  Learning      //   High-Performance Graphics
+📰  Learning      //   Differential Geometry
 
 📮  Contact       //   sq18335@essex.ac.uk
 </pre>
