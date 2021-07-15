@@ -5,15 +5,22 @@
 <h4 align="left">About Me</h4>
 
 <pre>
-🎓  Alumni        //   University of Leeds  •  University of Essex
+🎓  Alumni        
+                  //   University of Leeds
+                  //   University of Essex
 
-📜  Majors        //   High-Performance Graphics and Games Engineering MSc.  •  Computer Science BSc. (Hons)
+📜  Majors
+                  //   High-Performance Graphics and Games Engineering MSc.  
+                  //   Computer Science BSc. (Hons)
 
-💼  Working on    //   3D Conics & Surfaces Renderer
+💼  Working on    
+                  //   3D Conics & Surfaces Renderer
 
-📰  Learning      //   Differential Geometry
+📰  Learning      
+                  //   Differential Geometry
 
-📮  Contact       //   sq18335@essex.ac.uk
+📮  Contact       
+                  //   sq18335@essex.ac.uk
 </pre>
 
 <h4 align="left">Connect With Me</h4>
