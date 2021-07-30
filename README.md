@@ -25,8 +25,8 @@
 
 <h4 align="left">Connect With Me</h4>
 <p align="left">
-<a href="https://twitter.com/pitu_dev" target="blank"><img align="center" src="https://github.com/ranaxdev/ranaxdev/blob/main/icons8-twitter.svg" alt="pitu_dev" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/sharqais" target="blank"><img align="center" src="https://github.com/ranaxdev/ranaxdev/blob/main/icons8-linkedin.svg" alt="sharqais" height="30" width="30" /></a>
+<a href="https://twitter.com/pitu_dev" target="blank"><img align="center" src="https://img.icons8.com/dotty/64/000000/linkedin.png" alt="pitu_dev" height="38" width="38" /></a>
+<a href="https://linkedin.com/in/sharqais" target="blank"><img align="center" src="https://img.icons8.com/wired/64/000000/twitter.png" alt="sharqais" height="36" width="36" /></a>
 </p>
 
 <h4 align="left">Tech Stack</h4>
