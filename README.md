@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Rana</h2>
-<h4 align="center">🏮 An advanced CS postgraduate based in the UK 🏮</h4>
-<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Franaxdev&count_bg=%23B03C2F&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a></p>
+<h4 align="center">An advanced CS postgraduate based in the UK</h4>
+<p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Franaxdev&count_bg=%2361231F&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/></a></p>
 
 <h4 align="left">About Me</h4>
 
