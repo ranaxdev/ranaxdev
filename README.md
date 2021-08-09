@@ -20,14 +20,14 @@
                   //   Differential Geometry
 
 📮  Contact       
-                  //   sq18335@essex.ac.uk
+                  //   sc21srq@leeds.ac.uk
 </pre>
 
 <h4 align="left">Connect With Me</h4>
 <p align="left">
 <a href="https://twitter.com/pitu_dev" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/twitter.png" alt="pitu_dev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sharqais" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/linkedin.png" alt="sharqais" height="30" width="30" /></a>
-<a href="mailto:sq18335@essex.ac.uk" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/email.png" alt="sq18335@essex.ac.uk" height="30" width="30" /></a>
+<a href="mailto:sc21srq@leeds.ac.uk" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/email.png" alt="sc21srq@leeds.ac.uk" height="30" width="30" /></a>
 
 </p>
 
