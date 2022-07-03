@@ -14,7 +14,7 @@
                   //   Computer Science BSc. (Hons)
 
 💼  Working on    
-                  //   3D Conics & Surfaces Renderer
+                  //   Isosurface extraction from volumetric scalar fields
 
 📰  Learning      
                   //   Differential Geometry
