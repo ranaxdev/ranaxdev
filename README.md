@@ -21,6 +21,7 @@
 
 📮  Contact       
                   //   sc21srq@leeds.ac.uk
+                  //   <a href="https://github.com/ranaxdev/ranaxdev/blob/main/SR%20Qaiser%20CV.pdf">Curriculum Vitae</a>
 </pre>
 
 <h4 align="left">Connect With Me</h4>
