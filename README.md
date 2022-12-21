@@ -20,7 +20,7 @@
                   //   Differential Geometry
 
 📮  Contact       
-                  //   sc21srq@leeds.ac.uk
+                  //   sr@qaiser.dev
                   //   <a href="https://github.com/ranaxdev/ranaxdev/blob/main/SR%20Qaiser%20CV.pdf">Curriculum Vitae</a>
 </pre>
 
