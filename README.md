@@ -14,10 +14,10 @@
                   //   Computer Science BSc. (Hons)
 
 💼  Working on    
-                  //   Isosurface extraction from volumetric scalar fields
+                  //   Personal D3D12 renderer for research 
 
 📰  Learning      
-                  //   Differential Geometry
+                  //   Volumetric Atmospheric Scattering
 
 📮  Contact       
                   //   sr@qaiser.dev
@@ -28,7 +28,7 @@
 <p align="left">
 <a href="https://twitter.com/pitu_dev" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/twitter.png" alt="pitu_dev" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/sharqais" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/linkedin.png" alt="sharqais" height="30" width="30" /></a>
-<a href="mailto:sc21srq@leeds.ac.uk" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/email.png" alt="sc21srq@leeds.ac.uk" height="30" width="30" /></a>
+<a href="mailto:sr@qaiser.dev" target="blank"><img align="center" src="https://img.icons8.com/office/40/000000/email.png" alt="sc21srq@leeds.ac.uk" height="30" width="30" /></a>
 
 </p>
 
